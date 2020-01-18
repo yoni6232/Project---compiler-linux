@@ -1,0 +1,11 @@
+void main(int x){
+    int x,y,z;
+    x=y+z/2*2;
+    if(x>5){
+        y=y/2;
+    }
+    else{
+        y=y/3;
+    }
+    return;
+}

@@ -1,0 +1,8 @@
+int foo1(int z,char p,string str){return 5;}
+
+void main(){
+    int x,z;
+    z=5;
+    x=foo1(z,'s',"123asd1",5);
+    return;
+}

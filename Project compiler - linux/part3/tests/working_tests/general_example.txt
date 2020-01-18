@@ -1,0 +1,76 @@
+int foo1(int x, int y, char c){
+    int i,j,k,z;
+    string str[50];
+    int foo2(int z,string str){
+        if(z>2){
+            while(z>10){
+                z=z+1;
+            }
+        }
+        else{
+            for(j=10;j>100;j=j+1){
+                if(j/10>8)
+                    j=j*5+150/(j*k);
+            }
+        }
+        return z;
+    }
+    int pp;
+    z=foo2(i,str);
+    do{
+        for(i=0;i<5;i++){
+            z=z+1;
+        }
+        pp=y/2;
+        z=(j+y*(x/100)+x*2)/100;
+    }while(j>99);
+    return i;
+}
+
+int foo3(int z,int k,string str1,string str2){
+    int x;
+    char c;
+    if(k>5){
+        str1[x]='5';
+    }
+    else{
+        x=5+k/4;
+        do{
+            if(k>22){
+                str2[x]='6';
+                k=k+3;
+            }
+            else{
+                k=k+5*2+z;
+            }      
+        }while(k<500*x);
+    }
+    return k;
+
+}
+
+void foo4(int y,int x,string str){
+    int p,pp;
+    pp=5;
+    p=y/p+pp-78;
+    if(y>x){      
+        for(p=x+y/pp;p<89*x;p=p+1){
+            pp=9-x;
+            if(pp>66)
+                pp=1;
+        }
+    }
+    return;
+}
+
+void main()
+{
+    int z,y;
+    string str1[70],str2[50];
+    z=foo1(z,y+1,'d');
+    y=foo3(6,5,str1,str2);
+    foo4(foo1(z-22,y+11,'d'),foo3(6+z/2,5+z*2+y,str1,str2),"sce");
+    return;
+}
+
+

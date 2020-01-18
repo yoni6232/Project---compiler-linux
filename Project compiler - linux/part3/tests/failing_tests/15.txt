@@ -1,0 +1,13 @@
+void main(){
+    int x;
+    char c;
+    charp cp;
+    intp xp;
+    x=5+3/2;
+    c='s';
+    cp=&c;
+    cp=NULL;
+    xp=&x;
+    xp=cp;
+    return;
+}

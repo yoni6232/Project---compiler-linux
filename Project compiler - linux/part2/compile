@@ -1,0 +1,3 @@
+flex scanner.l
+yacc -d parser.y
+cc ast.c scope.c -o out y.tab.c -ll -Ly

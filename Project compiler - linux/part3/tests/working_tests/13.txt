@@ -1,0 +1,9 @@
+int foo(){return 4;}
+
+void main(){
+    int x;
+    string str1[x];
+    string str2[50];
+    string str3[foo()];
+    return;
+}

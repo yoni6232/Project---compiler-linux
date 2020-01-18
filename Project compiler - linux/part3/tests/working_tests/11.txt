@@ -1,0 +1,10 @@
+void main(){
+    int x,z;
+    z=5;
+    x=4;
+    if(x>z){
+        z=x+45;
+        x=5-2*z;
+    }
+    return;
+}

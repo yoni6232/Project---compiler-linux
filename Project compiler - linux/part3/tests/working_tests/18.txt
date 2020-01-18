@@ -1,0 +1,12 @@
+void main(){
+    int x;
+    char z;
+    intp xp;
+    charp zp;
+    string str[42];
+
+    x=^xp;
+    z=^zp;
+
+    return;
+}
